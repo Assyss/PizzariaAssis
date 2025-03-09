@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="pizzaria.admin" version="1.0.0" xmlns="http://www.w3.org/ns/widgets">
+    <name>Pizzaria Assis</name>
+    <description>App de administração da Pizzaria Assis</description>
+    <author email="contato@pizzariaassis.com">Pizzaria Assis</author>
+    <content src="index.html"/>
+    <access origin="*"/>
+    <preference name="Orientation" value="portrait"/>
+</widget>
